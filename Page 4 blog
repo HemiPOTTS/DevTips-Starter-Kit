@@ -1,0 +1,19 @@
+<html>
+	<head> <title>BLOG</title>
+  <link rel="stylesheet"
+  type="text/css"
+  href="mystyle.css">
+<body-background ="http://www.firsthdwallpapers.com/uploads/2013/07/silhouette_tree_root_desktop_1920x1200_hd-wallpaper-19346.jpg"  >
+   </head>
+	<body>
+This is the sweet site i will be creating some madness.<br/>
+<img src="Addi n jax.jpg" width="200px", height="250px"/>
+<ul>
+	<li>Streaming video</li> <a href="page 2 video">click here for stream  </a>
+	<li> Family tree</li><a href="page 3 tree"> Click here for family tree </a>
+	<li>blog</li><a href="Page 4 Blog">Blog Here  </a>
+	<li> Family Crests</li><a href="Page 5 Crests"> Crests </a>
+
+</ul>
+	</body>
+</html>

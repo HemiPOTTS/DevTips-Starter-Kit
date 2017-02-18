@@ -1,0 +1,21 @@
+<html>
+	<head> <title>FAMILY TREE</title>
+
+	<link rel="stylesheet"
+  type="text/css"
+  href="mystyle.css"/>
+
+   </head>
+	<body>
+This is the sweet site i will be creating some madness.
+
+<ul>
+	<li>main</li><a href="Family Now.html">click here for home </a>
+	<li>Streaming video</li> <a href="page 2 video">click here for stream  </a>
+	<li> Family tree</li><a href="page 3 tree"> Click here for family tree </a>
+	<li>blog</li><a href="Page 4 Blog">Blog Here  </a>
+	<li> Family Crests</li><a href="Page 5 Crests"> Crests </a>
+
+</ul>
+	</body>
+</html>

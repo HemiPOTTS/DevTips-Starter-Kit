@@ -1,0 +1,27 @@
+<style>
+
+
+body
+ { text-align: left;
+      font-family: verdana;
+      font-size: 25px;
+      font-color:#ffffcc;
+      background-color: grey;}
+h1
+ { color: #fffccc;
+    text-align: center;
+    font-size: 30px }
+
+p
+{ font-family: verdana;
+    font-size: 44px;
+    color: blue;}
+
+hr {padding :30px;color: red;}
+
+td {text-color:#444;}
+
+ul {color: #green;}
+
+
+</style>
